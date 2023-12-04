@@ -1,0 +1,38 @@
+.categories ul {
+	list-style: none;
+	padding: 0;
+}
+
+.categories {
+	width: 100%;
+	height: auto;
+	box-shadow: 1px -7px 15px -3px rgba(0, 0, 0, 0.1),
+		0 4px 6px -2px rgba(0, 0, 0, 0.05) !important;
+	padding: 2em;
+	margin-bottom: 2em;
+	margin-right: 1em;
+}
+
+.categories button {
+	background: none;
+	border: none;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: left;
+}
+
+.active {
+	background-color: aqua;
+	height: 3em;
+}
+
+.inactive {
+	height: 3em;
+}
+
+.button {
+	width: 100%;
+	height: 100%;
+	text-align: left;
+}

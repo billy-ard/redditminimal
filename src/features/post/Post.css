@@ -1,0 +1,31 @@
+.button_upvote {
+	border: none;
+	cursor: pointer;
+	background: none;
+	font-size: 3em;
+	color: black;
+}
+
+.button_downvote {
+	border: none;
+	cursor: pointer;
+	background: none;
+	font-size: 3em;
+	color: black;
+}
+
+.button_upvote_active {
+	border: none;
+	cursor: pointer;
+	background: none;
+	font-size: 3em;
+	color: green;
+}
+
+.button_downvote_active {
+	border: none;
+	cursor: pointer;
+	background: none;
+	font-size: 3em;
+	color: red;
+}
