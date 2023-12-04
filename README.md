@@ -1,6 +1,7 @@
 1. Wireframes
+This site was [Wireframe](https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/C00f4c6cd7e534ff5b9ccfb44457f89ef/projects/M6CqqqKlNh/pages/04764fda63d9412a93ab837e271af6cd/image/04764fda63d9412a93ab837e271af6cd.png?1701712156094).
 
-2. Technologies used
+3. Technologies used
 
 - React
 - HTML
